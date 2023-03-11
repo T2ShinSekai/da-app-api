@@ -1,0 +1,6 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "graphviz"
+brew "mecab"
+brew "mecab-ipadic"
+brew "tree"
